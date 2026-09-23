@@ -9,8 +9,8 @@ Objective: Identify Top 3 factors for churn + Recommendation for Miras program
 - Data: 2400 subscribers dataset
 
 ## Key Findings
-1. Top 3 factors for churn: [اكتبيهم]
-2. Recommendation: [اكتبي توصيتك]
+1. Top 3 factors for churn: MonthlyCharges, Tenure, Contract Type
+2. Recommendation: Offer 15% discount for high MonthlyCharges customers with tenure <12 months
 
 ## Author
 Amel Ben Nasr - Monastir, Tunisia
